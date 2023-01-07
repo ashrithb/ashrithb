@@ -1,5 +1,8 @@
 ### Hi there, I'm Ashrith!! 👋
 
+###I'm a student
+
+
 <!--
 **ashrithb/ashrithb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
