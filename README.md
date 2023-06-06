@@ -44,10 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Developer at S-docs
-- 🌱 I’m currently doing research for UMich's Nuclear department
-- 💬 Feel Free to connect with me. I love communicating with everyone.
-- 😄 Pronouns: He / Him 
+- 🔭 I’m currently working as a Software Developer at S-docs and doing research for UMich's Nuclear department
 
 
 <h3 align="left">Connect with me:</h3>
