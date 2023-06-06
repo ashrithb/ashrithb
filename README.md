@@ -1,4 +1,25 @@
 ### Hi there, I'm Ashrith!! 👋
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Ashrith Bandla"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US", "te"]
+        self.interests = ["Stand-Up Comedy", "NBA", "Blockchain", "Trading", "Star Wars", "Go", "DeFi"]
+
+    def say_hi(self):
+        print("Thanks for visiting my personal Github Repo, hope you find some of my featured work interesting.")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrithb&label=Profile%20views&color=blueviolet&style=flat" alt="ashrithb" /> </p>
 I am a Computer Science student at the University of Michigan. I am passionate about technology and coding/developing interesting projects. I also love PC hardware (I enjoy building computers as well) and learning about topics in algorithmic trading. I've worked on lots of backend and full stack projects and really enjoy learning new technologies and creating things with real impact! I'm also especially interested in DeFi and Blockchain technologies, and worked on interesting products in this space, such as the Numoen Protocol, an Automated Market Maker that lets liquidity providers hedge against Impermanent Loss on Arbitrum (an Ethereum layer 2) won the best DeFi Hack at Blockchain at Columbia LionHACK! 
 
@@ -19,6 +40,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Software Developer at S-docs
+- 🌱 I’m currently doing research for UMich's Nuclear department
+- 💬 Feel Free to connect with me. I love communicating with everyone.
+- 😄 Pronouns: He / Him 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashrith-b-177656223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/antoniovillarreal2024/" height="30" /></a>
