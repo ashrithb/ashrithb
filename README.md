@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.name = "Ashrith Bandla"
         self.role = "Software Engineer"
         self.language_spoken = ["en_US", "te"]
-        self.interests = ["Stand-Up Comedy", "NBA", "Blockchain", "Trading", "Star Wars", "Go", "DeFi"]
+        self.interests = ["Stand-Up Comedy", "NBA", "Blockchain", "Trading", "Star Wars", "DeFi"]
 
     def say_hi(self):
         print("Thanks for visiting my personal Github Repo, hope you find some of my featured work interesting.")
